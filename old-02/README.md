@@ -1,5 +1,9 @@
 해당 페이지 주소 : https://webhacking.kr/challenge/web-02/
 
+old-02 페이지만 유독 느려서 진행하는데에 어려움이 있었다.
+
+페이지가 열리지 않아서 일단 다른 문제부터 풀었다.
+
 ![image](https://user-images.githubusercontent.com/120306359/216117852-66f7cbc4-4496-45ba-b27b-73604c99d464.png)
 
 처음 페이지에 접속하면 다음과 같은 화면을 확인할 수 있다.
