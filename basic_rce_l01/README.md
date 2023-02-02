@@ -14,3 +14,5 @@ OllyDbg를 통해 실행을 해보았다.
 따라서 GetDriveTypeA까지 실행을 하고 그 다음 EAX 값을 보기 위해 GetDriveTypeA 다음 함수까지 BP를 걸고 실행을 한다.
 
 EAX의 값이 00000003임을 알 수 있다.
+
+![image](https://user-images.githubusercontent.com/120306359/216210007-27492116-3dfa-469d-a1b2-5f71f92678fa.png)
