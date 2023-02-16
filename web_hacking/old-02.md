@@ -49,3 +49,6 @@ time=1로 변경한 후 메인 화면으로 돌아와 개발자 도구를 실행
 
 ![image](https://user-images.githubusercontent.com/120306359/219446394-d5fcec45-c9ad-4532-af06-f9bf5a7492f5.png)
 두 번째 Table 이름의 길이는 3이다.
+
+여기서 다 못풀었다.  
+이 문제는 다음에 다시 풀어봐야겠다.
