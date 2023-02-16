@@ -35,3 +35,9 @@ EditThisCookie를 통해 확인해보니 쿠키가 PHPSESSID와 time까지 존�
 쿠키로 time이 존재한다는 것과 앞에서 주석 처리된 날짜, 시간을 통해 time 값을 변경하는 시도를 하였다.
 
 ![image](https://user-images.githubusercontent.com/120306359/216127951-6d64d9b0-bf49-4271-90a2-a25114edd7cc.png)
+![image](https://user-images.githubusercontent.com/120306359/219429328-7e4d39ce-79b9-4790-89d5-4f3c5954899b.png)  
+time=1로 변경한 후 메인 화면으로 돌아와 개발자 도구를 실행하니 초 단위가 01로 바뀌었다.
+
+![image](https://user-images.githubusercontent.com/120306359/219429763-c23b6a0d-dac1-48b9-b4d9-f3ba64bc2a43.png) ![image](https://user-images.githubusercontent.com/120306359/219429839-243d2b55-c9b6-49d6-aaed-ba903ddd6599.png)
+time=2로 변경하였더니 이번에는 초 단위가 02로 바뀌었다.
+
