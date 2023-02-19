@@ -16,7 +16,7 @@ png 부분인 89 50 4E 47 0D 0A 1A 0A에는 문제가 없다.
 따라서 너비와 높이를 같게 해주기 위해 02, 01 부분을 02, 02로 바꿔주었다.  
 
 ![image](https://user-images.githubusercontent.com/120306359/219963145-a0e25af5-a086-45cf-9f01-b2abee3f8c8b.png)  
-이를 저장한 후에 다시 파일을 열어 보니 플래그를 확인할 수 있다.
+이를 저장한 후에 다시 파일을 열어 보니 플래그를 확인할 수 있었다.  
 
 ![image](https://user-images.githubusercontent.com/120306359/219963277-7c5a597f-ca44-4e89-aff0-54ef3ffc83e6.png)  
 플래그는 DH{image_height_property}이다.
